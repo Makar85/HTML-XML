@@ -1,6 +1,6 @@
 <?xml version = "1.0" encoding = "utf-8" ?>
 
-<!DOCTYPE TimeTable SYSTEM "XML.lessons-ns_DTD.dtd">
+<xs:schema xmlns:xs="XML.lessons-ns_XML.xml">
 
 <TimeTable xmlns:python ="http://www.itmo.ru/xml/lessons"
            xmlns:CSharp ="http://www.itmo.ru/xml/lessons"
